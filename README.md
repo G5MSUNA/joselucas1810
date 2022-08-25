@@ -9,5 +9,5 @@
   <img align="center" alt="<fail>" height="30" width="40" src="https://i.ytimg.com/vi/Yvdv9Pm8BV0/maxresdefault.jpg?v=60c227d5">
  </div>
 <div align="center" style="display: inline_block"><br> 
-   <a href="https://www.instagram.com.br/lukinha.gouveia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com.br/lukinha.gouveia" target="_blank"><img src="https://joby.com.br/wp-content/uploads/sites/5/2019/12/analista-de-sistema-guia-das-profissoes-matrix.png" target="_blank"></a>
 </div>
